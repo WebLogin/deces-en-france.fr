@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://www.deces-en-france.fr/theme/images/logo.png">
+</p>
+
 # [deces-en-france.fr](deces-en-france.fr)
 
 Bienvenue sur la page de support du site [deces-en-france.fr](deces-en-france.fr)
