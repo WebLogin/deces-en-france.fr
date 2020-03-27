@@ -1,5 +1,5 @@
 <p align="center">
-  <img style="max-width:300px;width:100%;" src="https://www.deces-en-france.fr/theme/images/logo.png">
+  <img width="300" src="https://www.deces-en-france.fr/theme/images/logo.png">
 </p>
 
 # [deces-en-france.fr](https://www.deces-en-france.fr)
